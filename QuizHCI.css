@@ -1,0 +1,222 @@
+.judul{
+	display: block;
+	margin: auto;
+}
+
+.Home{
+  color:goldenrod;
+  padding-right: 7%;
+  padding-left: 7%;
+  text-decoration:none;
+  font-family:impact;
+  font-size:12pt;
+  text-decoration:none;
+  text-align: center;
+}
+
+.Feedback{
+  color:goldenrod;
+  padding-right: 7%;
+  padding-left: 7%;
+  text-decoration:none;
+  font-family:impact;
+  font-size:12pt;
+  text-decoration:none;
+  text-align: center;
+}
+
+body{
+	background-color: bisque;
+}
+.overall-text{
+	font-size:12pt;
+	color:goldenrod;
+	font-family:impact;
+
+}
+
+.body-text{
+	color:darkgreen;
+	font-family:impact;
+	font-size:10pt;
+	text-align: justify;
+	margin-left: 38%;
+	margin-right: 20%;
+	padding-left: 20%;
+	padding-top :3%;
+}
+
+.line{
+	color: darkgreen;
+	border :1px solid darkgreen;
+	width: 100%;
+	size: 1000%;
+
+}
+
+.cinema{
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 15%;
+	padding-top: 1%;
+}
+
+.patner{
+	color: goldenrod;
+	text-decoration:none;
+	font-family:impact;
+	font-size:18pt;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0%;
+	padding-bottom: 1%;
+}
+
+.imax{
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 1%;
+}
+
+.dolby{
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 5%;
+	padding-bottom: 1%;
+}
+
+.showing{
+	color:darkgreen;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-family:impact;
+	font-size:25pt;
+	padding-bottom: 0.5%;
+}
+
+.ipman{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+
+.ipman:hover{
+	transform: scale(1.6);
+}
+
+.midsommar{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+
+.midsommar:hover{
+	transform: scale(1.6);
+}
+
+.kingsglaive{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+
+.kingsglaive:hover{
+	transform: scale(1.6);
+}
+
+.avengers{
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+
+.avengers:hover{
+	transform: scale(1.6);
+}
+
+.coco{
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 1%;
+	padding-bottom: 0.5%;
+}
+
+.coco:hover{
+	transform: scale(1.6);
+}
+
+.photo{
+	border: 10px solid darkgreen;
+	margin: auto;
+	align-items: center;
+	width: 51%;
+	border-right-width: 10px;
+	border-left-width: 10px;
+	border-top-width: 10px;
+	border
+	height: 50%;
+}
+
+.last{
+	color:goldenrod;
+	padding-top: 2%;
+	padding-bottom: 0.5%;
+	padding-left: 4%;
+	text-decoration:none;
+	font-family:impact;
+	font-size:14pt;
+	text-decoration:none;
+	text-align: left;
+}
+
+.ig{
+	padding-right: 1%;
+}
+
+.tw{
+	padding-right: 1%;
+}
+
+.fb{
+	padding-right: 4%;
+}
+
+
+.feed-pict{
+	height: 220px;
+	padding-right: 2%;
+}
+
+.feed-pict:hover{
+	transform: scale(1.1);
+}
+
+
+.text-feed{
+	color: goldenrod;
+ 	font-family:impact;
+ 	font-size:20pt;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5%;
+	padding-bottom: 4%;
+
+}
+
+.text-feeds{
+	color: black;
+ 	font-family:impact;
+ 	font-size:15pt;
+ 	padding-left: 2%;
+ 	padding-bottom: 10.4%;
+}
